@@ -1,0 +1,68 @@
+body {
+  background-color: #eeeeee;
+}
+#brand-font {
+    font-size: 30px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: white;
+    background-color: #26a69a;
+  }
+
+#grey-back {
+  background-color: #eeeeee;
+}  
+
+.nav-link {
+      color: black;
+  }
+
+#summary {
+    font-size: 30px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: #26a69a;
+    }  
+
+.main, .side {
+  background-color: #fff;
+}
+
+.box {
+  margin-top: 60px;
+  margin-bottom: 62px;
+  padding: 10px 20px 15px;
+  color: black;
+  background-color: white;
+}
+
+#figure1 {
+  width: 300px;
+  height: 300px;
+  float: left
+    }
+
+#figure2 {
+  width: 200px;
+  height: 200px;
+}
+
+#figure3 {
+  width: 600px;
+  height: 500px;
+}
+
+#figure4 {
+  width: 500px;
+  height: 500px;
+}
+
+section{
+  background-color: #fff;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
